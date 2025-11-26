@@ -14,7 +14,7 @@ A simple practice project built with HTML, CSS and JavaScript — a tabbed inter
 /styles.css — styling for layout and tabs
 /script.js — JavaScript for tab switching behavior
 
-## 📝 Usage / How it Works
+## 📝 Usage
 
 1. Open `index.html` in your browser.
 2. Click on the planet names (tabs) to switch between different planets.
@@ -26,7 +26,7 @@ If you want to add more planets:
 - Add a corresponding content panel.
 - Update your JS logic to handle the new tab + panel (or refactor for scalability).
 
-## 🎯 Features / What you practiced
+## 🎯 Features
 
 - Basic semantic HTML structure.
 - CSS for styling tab layout and active tab states.
